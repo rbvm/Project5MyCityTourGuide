@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#1B5E20</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#F4511E</color>
+    <!-- Background color for app -->
+    <color name="tan_background">#43A047</color>
+
+    <!-- Background color for the home page -->
+    <color name="category_about">#80DEEA</color>
+
+    <!-- Background color for the fun category -->
+    <color name="category_fun">#FFAB91</color>
+
+    <!-- Background color for the food category -->
+    <color name="category_food">#CE93D8</color>
+
+    <!-- Background color for the hotels category -->
+    <color name="category_hotels">#A5D6A7</color>
+
+</resources>

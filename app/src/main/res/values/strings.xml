@@ -1,0 +1,240 @@
+<resources>
+    <string name="app_name">Project 5 - My City Tour Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Name of the welcome screen tab -->
+    <string name="category_about">About</string>
+
+    <!-- Name of the Fun tab -->
+    <string name="category_fun">Fun</string>
+
+    <!-- Name of the Food tab -->
+    <string name="category_food">Food</string>
+
+    <!-- Name of the Hotels tab -->
+    <string name="category_hotels">Hotels</string>
+
+
+    <string name="title_text">Name of the place</string>
+    <string name="details_text">Description of the place</string>
+    <string name="address_text">Address of the place</string>
+
+    <!-- Description of the welcome page -->
+    <string name="city_name">Brasov</string>
+    <string name="city_description">City Highlights
+        \n\nFringed by the peaks of the Southern Carpathian Mountains and resplendent with gothic,
+        baroque and renaissance architecture, as well as a wealth of historical attractions, Brasov
+        is one of the most visited places in Romania.
+
+        \n\nFounded by the Teutonic Knights in 1211 on an ancient Dacian site and settled by the Saxons
+        as one of the seven walled citadels, Brasov exudes a distinct medieval ambiance and has
+        been used as backdrop in many recent period films.
+
+        \n\nThe location of the city at the intersection of trade routes linking the Ottoman Empire and
+        western Europe, together with certain tax exemptions, allowed Saxon merchants to obtain
+        considerable wealth and exert a strong political influence in the region. This was reflected
+        in the city\'s German name, Kronstadt, as well as in its Latin name, Corona, meaning Crown
+        City (hence, the coat of arms of the city which is a crown with oak roots). Fortifications
+        were erected around the city and continually expanded, with several towers maintained by
+        different craft guilds, according to medieval custom.
+
+        \n\nBrasov is home to one of the narrowest streets in Europe. The Rope Street (Strada Sforii)
+        is approximately four feet wide and it links Cerbului Street with Poarta Schei Street. This
+        street was initially used as an access route by firefighters.
+
+        \n\nStroll around the old Town Hall Square (Piata Sfatului) where you can admire colorfully
+        painted and ornately trimmed baroque structures. Take a peek inside the Black Church
+        (Biserica Neagra), the largest gothic church in Romania. Its name derives from damage caused
+        by the Great Fire of 1689, when flames and smoke blackened its walls. The interior is
+        impressive and well-kept and houses one of the largest organs in Eastern Europe.
+        Nearby are towering mountains, rolling fields, thick forests and villages with fortified
+        churches.</string>
+    <string name="fast_facts">Fast Facts \n\nLocation: Central Romania (Brasov County) \nSize: 28.5
+        sq. miles (74 sq. km) \nElevation: 2,133 ft. (650 meters) \nPopulation: 275,000 \nInhabited
+        since: 100 BC \nFirst documented: 1234 AD (Corona)</string>
+
+    <!-- Fun category items -->
+    <string name="fun_name_1">The Council Square and The Old Town Hall</string>
+    <string name="fun_info_1">The Saxons built massive stone walls and seven bastions around the
+        city that are still visible today, as well as ornate churches, elaborately trimmed buildings
+        and one of the finest central squares in the country, said to be the spot to which the
+        legendary Pied Piper led the children of Hamlin. Located at the heart of old medieval Brasov
+        and lined with beautiful red-roofed merchant houses, the Council Square, known to the Saxon
+        population as the Marktplatz, is a nice place to rest and soak in the beautiful scenery.
+        \n\nThe Old Town Hall was built in the 13th century, the house served as meeting place for
+        the town councilors, known as centurions. On top of the building sits the Trumpeter\'s Tower,
+        used during the Middle Ages as a watchtower for warning the citadel inhabitants of
+        approaching danger. Today, the old city hall houses the Brasov History Museum.</string>
+    <string name="fun_address_1">Address: Piata Sfatului 30</string>
+
+    <string name="fun_name_2">The Black Church</string>
+    <string name="fun_info_2">Built between 1385 and 1477 on the site of an earlier church
+        (destroyed by Mongol invasions in 1242), the construction of the Marienkirche, as it was
+        known in German, was hampered by extensive damage caused by Turkish raids in 1421. The
+        church was given its new name after disaster struck again in 1689, when the Great Fire
+        leveled most of the town, blackening the walls of the church. Restoration took almost 100
+        years. Of two towers planned, only one was finished.
+        \nThe original gothic interior got a makeover during restorations, and the lofty, light
+        space you see today is mostly baroque. The interior is beautiful, with balconies, stained
+        glass windows, an enormous organ, stone columns and walls adorned with fabulous Turkish
+        carpets. The church windows have recently been fitted out with special UV-filtering glass
+        to protect the 119 Anatolian carpets. Thankful to have survived their trips into the
+        "barbaric" lands south and east of the Carpathians, German merchants donated the carpets to
+        the church in the 17th and 18th centuries. The collection is the largest of its kind in
+        Europe.
+        \nListen to the impressive 4,000-pipe organ dating from 1839 during concerts held here
+        three times a week in the summer.
+        \n\nOpen:
+        \nMon - Sat 10:00 am - 3:30 pm (September 16 – June 14);
+        \nMon - Sat 10:00 am - 5:00 pm (June 15 – September 15);
+        \nClosed Sunday
+        \n\nOrgan concerts are held during the summer:
+        \nJune and September: Tuesday (6:00 pm)
+        \nJuly and August: Tuesday, Thursday, Saturday (6:00 pm)
+        \nAdmission charge</string>
+    <string name="fun_address_2">Address: Johannes Honterus Court 2</string>
+
+    <string name="fun_name_3">The Art Museum</string>
+    <string name="fun_info_3">The ground and first floors of the museum feature a national gallery
+        of canvases, starting with anonymous Transylvanian painters of the 18th century up to the
+        who\'s who of Romanian 20th century artists, including Theodor Pallady, Nicolae Grigorescu,
+        Stefan Luchian and Horia Bernea.
+        \nThe museum also displays works by Brasov-born Janos Mattis-Teutsch (1884-1960), one of the
+        most influential Romanian artists, as well as sculptures by Corneliu Medrea, Ion Jalea,
+        Frederic Storck and Dimitrie Paciurea.
+        \n\nFrench photographer Brassai, famous for his portrayal of Paris at the beginning of the
+        20th century, was born in 1899 in Brasov. Upon his move to France he took on his artistic
+        pseudonym Brassai, which means \'from Brasov\'.
+        \nVisit the cellar level for a look at the beautiful European crystal and porcelain, as well
+        as a large collection of Oriental vases and statuettes from China, Tibet and Persia.
+        \n\nAdmission charge.</string>
+    <string name="fun_address_3">Address: Eroilor Bld. 21 A \nTel: 0268 477 286 \nWeb: www.muzeulartabv.ro
+        \nOpen: \nTuesday - Sunday: 10:00 am - 6:00 pm \nClosed Monday</string>
+
+    <string name="fun_name_4">Poiana Brasov</string>
+    <string name="fun_info_4">A 15-minute drive or 30-minute bus ride from Brasov leads to Poiana
+        Brasov (3,300 feet), a mountaintop ski and summer resort. During winter months, Poiana
+        Brasov offers some of the best skiing in Romania. In the summer, it is a great place for
+        hikers to launch treks into the Southern Carpathian Mountains. For a panoramic view of
+        Brasov and the more distant Bucegi Mountains, take the cable car to the summit of Postavarul
+        Mountain (5,756 feet).</string>
+    <string name="fun_address_4">Where: 5 miles SW of Brasov \nAccess: Bus #20 leaves every half-hour
+        from Livada Postei bus station</string>
+
+    <!-- Food category items -->
+    <string name="food_name_1">La Ceaun </string>
+    <string name="food_info_1">Small traditional restaurant serving mainly soups and stews, cooked
+        fresh every day with local ingredients.
+        \n\nOpen Hours \nSunday: 12:00 PM - 10:00 PM \nMonday: 12:00 PM - 10:00 PM \nTuesday: 12:00
+        PM - 10:00 PM \nWednesday: 12:00 PM - 10:00 PM \nThursday: 12:00 PM - 10:00 PM \nFriday:
+        12:00 PM - 10:00 PM \nSaturday: 12:00 PM - 10:00 PM</string>
+    <string name="food_address_1">Address 1: Weiss Michael Street Nr. 27 \nPhone Number: +40 773 936
+        766 \n\nAddress 2: Piata Sfatului 11-12 \nPhone Number: +40 773 727 990</string>
+
+    <string name="food_name_2">Casa Tudor </string>
+    <string name="food_info_2">Pork greaves with red onions and fresh bread, on the house! The cooks
+        are prepared to pamper your taste buds. The menu features a large variety of fresh products
+        obtained from Sergiana’s own farms, as well as number of international dishes.
+        \n\nEspecially for those with world-class appetites, the Cook Book is open for lunch and
+        dinner with generous snacks, tasty salads, delicious soups and fragrances, all kinds of
+        Angus dishes and spectacular barbecues! The menu also includes fish dishes, from bold
+        Mediterranean recipes with octopus and shrimp to local dishes with anchovies and carp brine.
+        \n\nRegardless of your choice, you will discover that ALL’S FINE AND TASTY!
+        \n\nYou’re welcome \nMonday – Sunday: 11:00 - 24:00</string>
+    <string name="food_address_2">Address: Avram Iancu Street 58
+        \nE-mail: restaurantcasatudor@sergiana.ro
+        \nPhone:  0728 830 340 | 0268 428 070</string>
+
+    <string name="food_name_3">Ceasu\' Rau</string>
+    <string name="food_info_3">If a National Barbecue Championship were ever held, then the finals
+        would always take place at Ceasu\’ Rău. This is what our regulars like to say about our
+        restaurant, which is famous all around the town for its “mititei”, its beer and its traditional
+        Romanian atmosphere. \nA kitchen that works around the clock and a recipe book just like
+        grandma used to keep. Welcoming salons and a seasonless garden. Any visit at Ceasu\’ Rău
+        starts with fresh bread and the restaurant’s renowned menu - no hour of the week must be
+        wasted on an empty plate, just like wooden platters and red towels must always accompany
+        your lunch.
+        \n\nHot Romanian soup, finger-licking good chicken paprikas with dumplings, bean stew with
+        smoked pork hocks, delicious mutton pastrami with polenta, the famous sausages from Poiana
+        Mărului, hot-smoked grilled pork ribs - everything tastes even better than it sounds. Pamper
+        your taste buds with all this Romanian food, that tastes home made and comes in large
+        servings. \n\nYou’re welcome \nMonday – Sunday: 11:00 - 24:00</string>
+    <string name="food_address_3">Address: Iuliu Maniu Street 56
+        \nE-mail: restaurantceasurau@sergiana.ro \nPhone: 0723 297 993 | 0268 476 670</string>
+
+    <string name="food_name_4">Pub &amp; Bistro NEC\'s</string>
+    <string name="food_info_4">Italian cuisine is both healthy and tasty, as everyone knows -
+        especially when it features the unmistakable flavor of the Sergiana products. After a walk
+        around the town, take a break in the city center and pay us a visit. Serving methods? All
+        of them: take-in, take-out and delivery.
+        \nThe meat and the meat products from Sergiana Poiana Mărului - the best possible ingredients
+        for any type of pizza! At Nec’s, you can enjoy your favourite pizza in the surprising Pizza
+        Party version: with plenty of ingredients and supreme sizes.
+        \n\nFor a truly unique experience, we also included bistro dishes, each one tastier than the
+        others: tempting snacks, light sandwiches, pasta with spices from the gardens of Italy, or
+        vegetarian salads. In order for your date to be even better, don’t forget that wine best suits
+        a copious meal, and that lemonades are best served with ice.
+        \n\nEnjoy! \n\nYou’re welcome \nMonday – Sunday: 10:00 - 24:00</string>
+    <string name="food_address_4">Address: Iuliu Maniu Street 43 \nE-mail: necs@sergiana.ro
+        \nPhone: 0728 024 202 | 0268 543 658</string>
+
+    <!-- Hotels category items -->
+    <string name="hotels_name_1">Aro Palace</string>
+    <string name="hotels_info_1">With a history of over 70 years, being inaugurated with great fast
+        in 1939, it is the only 5 star hotel in Brasov. \nIn 1963 it was expanded by building a new
+        building, and in 2005 it was raised to 5-star standards. The hotel occupies a privileged
+        position in the historic center of the city. \nThanks to the experience we have gained over
+        the years, we have been able to harmonize business with pleasure in a very exceptional way,
+        combining business with relaxation and offering the guarantee of services that meet your
+        needs. \nThe hotel offers a total of 195 rooms, of which 188 double or single rooms, 3
+        suites, 3 studios, 1 presidential apartment, 6 restaurants, 4 conference rooms, 1 spa, all
+        of which are equipped with impeccable quality.</string>
+    <string name="hotels_address_1">Address: Eroilor Bld., no. 27 \n\nReservations:
+        \nTel: +40 268 478 800 \nTel: +40 268 476 699 \nFax: +40 268 478 889 \nFax: +40 268 475 228
+        \n\nE-mail: \nbooking@aro-palace.ro \nhotelaro@aro-palace.ro</string>
+
+    <string name="hotels_name_2">Chambers\'n Charm</string>
+    <string name="hotels_info_2">A stylish villa located on the road to Poiana Brasov with an
+        absolutely amazing sight to Tampa and Brasov just 3 km from the historic center. \nChambers\'n
+        Charm a wonderful and luxurious with 9 spacious rooms, each decorated in a different theme,
+        5 stars rated, created for those who appreciate the ambiance and outstanding service boutique
+        hotels. \nCustomers from Chambers'n Charm typically seek more than comfort. When planning
+        their stay, search for hotels that are significantly different appearance and atmosphere of
+        the hotel chains and will be pleasantly surprised by what I find your destination.
+        Our hotel has all rooms equipped with minibar, safe, plasma TV, free wireless internet,
+        hairdryer, telephone.</string>
+    <string name="hotels_address_2">Address: 27 Stejerisului Street \nGPS: 45.644397, 25.572029
+        \nPhone: 0368 412 904 \nMobile:0733 016 512 \nEmail: chambers.charm@gmail.com
+    </string>
+
+    <string name="hotels_name_3">Capitol Hotel</string>
+    <string name="hotels_info_3">Capitol Hotel is located in the center of Brasov, next to the Town
+        Hall and the Central Park. Whether you are here for business or pleasure, it is the ideal
+        place for clients who combine relaxation with work. The Capitol Hotel offers you 183 double
+        rooms, a restaurant where you can choose culinary choices from international and traditional
+        cuisine, with a maximum of 200 seats, and for those who want to relax, just a few steps away,
+        awaits the Aro-Palace Wellness &amp; Spa Center for Recreation and Sports.</string>
+    <string name="hotels_address_3">Address: Eroilor Bld. 19 \n\nReservations:
+        \nTel: +40 268 418 920 \nFax: +40 268 472 999
+        \n\nE-mail: hotelcapitol@aro-palace.ro</string>
+
+    <string name="hotels_name_4">Coroana Hotel</string>
+    <string name="hotels_info_4">Hotel Coroana is one of the architectural jewels of Brasov, being
+        the oldest hotel in the city, the meeting place of great personalities of the time. Placed
+        on the city\’s famous pedestrian street, close to the old town gate, close to the Council
+        Square and the Black Church, the hotel attracts all gazes through the Art Noveau and Baroque
+        architecture, being a historic monument.
+        \nArchitects Schuller and Goldsmidt were inspired by the Munchen architecture, suggesting a
+        symbolic building that pleased both aesthetically and functionally. The hotel\’s threshold
+        was passed by important names of Romanian spirituality such as: George Cosbuc, Cincinat
+        Pavelescu, Lucian Blaga, Emil Cioran, Octavian Goga. Here was also the first literary
+        gathering in Brasov in 1923.
+        \nThe original name was Krone Hotel, named after the old town (Kronstadt or Crown City),
+        keeping the mystery of the legend and the myth underlying the name “Brasov”. </string>
+    <string name="hotels_address_4">Address: Republicii Street 62 \n\nReservations:
+        \nTel: +40 268 477 448 \nFax: +40 268 418 469
+        \n\nE-mail: hotelcoroana@aro-palace.ro</string>
+
+</resources>
